@@ -3,8 +3,8 @@
 # exit on error
 set -o errexit
 
-# npm install
-# npm run build
+npm install
+npm run build
 
 pipenv install
 
